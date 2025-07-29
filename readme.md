@@ -26,6 +26,7 @@ Este proyecto es usado por las siguientes empresas:
 \- Cocodrilo Inc.
 \- Crock Inc.
 \- Lacoste Inc.
+\- Lions Inc.
 
 
 
