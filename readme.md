@@ -25,6 +25,7 @@ Este proyecto es usado por las siguientes empresas:
 \- Salamandra Inc.
 \- Cocodrilo Inc.
 \- Crock Inc.
+\- Lacoste Inc.
 
 
 
